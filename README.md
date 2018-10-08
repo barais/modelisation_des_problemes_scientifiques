@@ -128,11 +128,13 @@ conda-forge jupyter_contrib_nbextensions`)
  * [Jupyter documentation](http://jupyter.readthedocs.io/en/latest/index.html)
  * [Jupyter examples](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/examples_index.html)
 
+
 ## Exercice à rendre pour le module python
 
 ### Exercice 1: Base de python
 
 Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_problemes_scientifiques/blob/master/TP1-introPython.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
+
 
 ### Exercice 2: Modélisation objet
 
@@ -142,7 +144,7 @@ Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_prob
 
 Jouons avec une tortue. Dans le répertoire tp3, je vous propose un exemple d'utilisation d'une librarie 'Turtle' reprenant les éléments clé du langage Logo.
 
-En s'inspirant des exemples *fern* et *tree* disponible [ici](https://www.calormen.com/jslogo/) en logo, mettre en oeuvre ces exemples en python. 
+En s'inspirant des exemples *fern* et *tree* disponible [ici](https://www.calormen.com/jslogo/) en logo, mettre en oeuvre ces exemples en python.
 
 ### Exercice 4
 
