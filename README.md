@@ -139,13 +139,13 @@ Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_prob
 
 Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_problemes_scientifiques/blob/master/TP2-PythonProg.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
 
-### Exercice 3
+### Exercice 3
 
 Jouons avec une tortue. Dans le répertoire tp3, je vous propose un exemple d'utilisation d'une librarie 'Turtle' reprenant les éléments clé du langage Logo.
 
 En s'inspirant des exemples *fern* et *tree* disponible [ici](https://www.calormen.com/jslogo/) en logo, mettre en oeuvre ces exemples en python.
 
-### Exercice 4
+### Exercice 4
 
 Lors du premier tome de Harry Potter les trois héros doivent résoudre une énigme - qui ne nécessite aucune magie - afin d’accéder à la salle où est cachée la pierre philosophale. Ce problème, dont l’auteur serait le professeur Rogue (Professor Snape pour les anglophones), consiste à trouver deux potions parmi les sept qui se trouvent devant eux : celles permettent d’avancer et de reculer. Ils sont aidés de quelques indices :
 
@@ -155,6 +155,6 @@ Lors du premier tome de Harry Potter les trois héros doivent résoudre une éni
 - Ni la fiole la plus grande (fiole 6) ni la plus petite (fiole 3) ne contient du poison.
 - Les contenus des fioles 2 et 6 sont identiques.
 
-## Exercice 5: Le plus loin possible sur codingame
+## Exercice 5: Le plus loin possible sur codingame
 
 - https://www.codingame.com/
