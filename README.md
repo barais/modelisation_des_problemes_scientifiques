@@ -132,15 +132,17 @@ conda-forge jupyter_contrib_nbextensions`)
  * [Jupyter documentation](http://jupyter.readthedocs.io/en/latest/index.html)
  * [Jupyter examples](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/examples_index.html)
 
-
 ## Exercice à rendre pour le module python:
 
-### Exercice 1
+### Exercice 1: Base de python
 
-Récupérer le [fichier suivant](https://github.com/wikistat/Intro-Python/blob/master/Cal1-introPython.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous. 
+Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_problemes_scientifiques/blob/master/Cal1-introPython.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous. 
 
-### Exercice 2
+### Exercice 2: Modélisation objet
 
+Récupérer le [fichier suivant](https://github.com/barais/modelisation_des_problemes_scientifiques/blob/master/Cal1-introPython.ipynb) et rééxecuter l'ensemble des exemples de code fournis. Vérifier que vous les comprenez tous.
+
+### Exercice 3
 
 Lors du premier tome de Harry Potter les trois héros doivent résoudre une énigme - qui ne nécessite aucune magie - afin d’accéder à la salle où est cachée la pierre philosophale. Ce problème, dont l’auteur serait le professeur Rogue (Professor Snape pour les anglophones), consiste à trouver deux potions parmi les sept qui se trouvent devant eux : celles permettent d’avancer et de reculer. Ils sont aidés de quelques indices :
 
@@ -151,4 +153,3 @@ Lors du premier tome de Harry Potter les trois héros doivent résoudre une éni
 - Les contenus des fioles 2 et 6 sont identiques.
 
 ## Exercice 3
-
