@@ -44,7 +44,7 @@ Pour lancer jupyter
 ```bash
 $ mkdir modelisationscientifique
 $ cd modelisationscientifique
-$ docker run --rm -p 8888:8888 -e JUPYTER_LAB_ENABLE=yes -v "$PWD":/home/jovyan/work jupyter/datascience-notebook
+$ docker run -p 8888:8888 -e JUPYTER_LAB_ENABLE=yes -v "$PWD":/home/jovyan/work jupyter/datascience-notebook
 ```
 
 
@@ -107,15 +107,17 @@ mais nous vous suggérons d'essayer toutes les techniques:
 
 ### Configurer jupyter
 
+
+Comme nous avons lancé jupyter depuis le container docker, connectez-vous
+à ce dernier par la commande `docker exec -i -t dockerid /bin/bash`
+après avoir récupérer le dockerid via `docker ps`
+
 La configuration de jupyter peut-être modifée, via l'édition du fichier
 ~/.jupyter/jupyter_notebook_config.py
 
 Pour générer un tel fichier, tapez la commande `jupyter notebook
 --generate-config`, puis survolez l'ensemble des options de ce fichier. 
 
-Comme nous avons lancé jupyter depuis le container docker, connectez-vous
-à ce dernier par la commande `docker exec -i -t dockerid /bin/bash`
-après avoir récupérer le dockerid via `docker ps`
 
 Des extensions vous permettent de compléter les fonctionnalités de
 base de jupyter. Pour les survoler et les activer, rendez-vous sur la
