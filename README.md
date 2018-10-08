@@ -128,8 +128,7 @@ conda-forge jupyter_contrib_nbextensions`)
  * [Jupyter documentation](http://jupyter.readthedocs.io/en/latest/index.html)
  * [Jupyter examples](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/examples_index.html)
 
-
-## Exercice à rendre pour le module python
+## Exercice à rendre pour le module python
 
 ### Exercice 1: Base de python
 
